@@ -3,7 +3,7 @@
 Random generation of copulas with Python
 ----------------------------------------
 
-**CoPY** is a Python module to simulate copula.
+**COPPY** is a Python module to simulate copula.
 
 Installation
 ------------
@@ -11,7 +11,7 @@ Installation
 Dependencies
 ~~~~~~~~~~~~
 
-CoPY requires :
+COPPY requires :
 
 - Python (>= 3.7)
 - NumPY (>= 1.14.6)
